@@ -1,0 +1,39 @@
+user_input,bot_response,end_continue_result,GroundTruthCC,wiki_chat_result,timestamp,GroundtruthWC
+so you are an alien!,with a spaceship,bye,continue chat,None,12/10/2023 18:57,None
+so you are an alien!,with a spaceship,bye,continue chat,None,12/10/2023 18:57,None
+hello,Hi,continue chat,continue chat,chat,12/10/2023 18:59,chat
+hello,Hi,continue chat,continue chat,chat,12/10/2023 18:59,chat
+how are you?,I am just an artificial intelligence.,continue chat,continue chat,chat,12/10/2023 19:00,chat
+how are you?,I am just an artificial intelligence.,continue chat,continue chat,chat,12/10/2023 19:00,chat
+"hello, how are you today?",Hello?,continue chat,continue chat,chat,12/10/2023 19:02,chat
+"hello, how are you today?",Hello?,continue chat,continue chat,chat,12/10/2023 19:02,chat
+hello,Hi,continue chat,continue chat,chat,12/10/2023 19:04,chat
+hello,Hi,continue chat,continue chat,chat,12/10/2023 19:04,chat
+when is the next presidential election in USA?," November 5, 2024.",continue chat,continue chat,wiki,12/10/2023 19:04,wiki
+when is the next presidential election in USA?," November 5, 2024.",continue chat,continue chat,wiki,12/10/2023 19:04,wiki
+who are the contesting candidates for it?,I couldn't find any information on that topic.,continue chat,continue chat,wiki,12/10/2023 19:05,wiki
+who are the contesting candidates for it?,I couldn't find any information on that topic.,continue chat,continue chat,wiki,12/10/2023 19:05,wiki
+what,by the duck pond?,continue chat,continue chat,chat,12/10/2023 19:06,chat
+what,by the duck pond?,continue chat,continue chat,chat,12/10/2023 19:06,chat
+bye,Take care,bye,bye,None,12/10/2023 19:06,None
+bye,Take care,bye,bye,None,12/10/2023 19:06,None
+hi,Hello,continue chat,continue chat,chat,12/10/2023 19:07,chat
+hi,Hello,continue chat,continue chat,chat,12/10/2023 19:07,chat
+hello,Hi,continue chat,continue chat,chat,12/10/2023 19:10,chat
+hello,Hi,continue chat,continue chat,chat,12/10/2023 19:10,chat
+tell me what is rag?,I couldn't find any information on that topic.,continue chat,continue chat,wiki,12/10/2023 19:12,wiki
+tell me what is rag?,I couldn't find any information on that topic.,continue chat,continue chat,wiki,12/10/2023 19:12,wiki
+tell me what is RAG?,I couldn't find any information on that topic.,continue chat,continue chat,wiki,12/10/2023 19:12,wiki
+tell me what is RAG?,I couldn't find any information on that topic.,continue chat,continue chat,wiki,12/10/2023 19:12,wiki
+tell me cool food places near buffalo?,Buffalo offers many cool food places ranging from specialty stores to food festivals showcasing the latest culinary innovations.,continue chat,continue chat,wiki,12/10/2023 19:16,wiki
+tell me cool food places near buffalo?,Buffalo offers many cool food places ranging from specialty stores to food festivals showcasing the latest culinary innovations.,continue chat,continue chat,wiki,12/10/2023 19:16,wiki
+can you name some food places in buffalo for indian cuisine?," Udupi Cafe, Bombay Masala, India Gate, Taste of India.",continue chat,continue chat,wiki,12/10/2023 19:19,wiki
+can you name some food places in buffalo for indian cuisine?," Udupi Cafe, Bombay Masala, India Gate, Taste of India.",continue chat,continue chat,wiki,12/10/2023 19:19,wiki
+have you visited,I couldn't find any information on that topic.,continue chat,continue chat,wiki,12/10/2023 19:24,chat
+have you visited,I couldn't find any information on that topic.,continue chat,continue chat,wiki,12/10/2023 19:24,chat
+have you visited taste of india cafe in buffalo?," No, I have not.",continue chat,continue chat,wiki,12/10/2023 19:25,chat
+have you visited taste of india cafe in buffalo?," No, I have not.",continue chat,continue chat,wiki,12/10/2023 19:25,chat
+which food do you like?,I am not quite sure I understand that.,continue chat,continue chat,chat,12/10/2023 19:26,chat
+which food do you like?,I am not quite sure I understand that.,continue chat,continue chat,chat,12/10/2023 19:26,chat
+why are you not responding to me?,Well then same too,bye,continue chat,None,12/10/2023 19:27,None
+why are you not responding to me?,Well then same too,bye,continue chat,None,12/10/2023 19:27,None
